@@ -9,7 +9,7 @@ import android.arch.persistence.room.PrimaryKey;
  */
 
 @Entity
-public class FoodCategory {
+public class FoodCategoryEntity {
 
     @PrimaryKey
     int foodCategoryId;
